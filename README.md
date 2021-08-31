@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @iRobot2397
-- 👀 I’m a beginner in python.
+- 👀 I’m 13 years old.
 - 🌱 I’m currently learning python beginner.
 - 💞️ I’m looking to collaborate on maybe simple projects for now.
 - 📫 How to reach me: My name and tag on Discord is iRobot2397#4701.
